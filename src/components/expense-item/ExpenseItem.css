@@ -1,0 +1,38 @@
+.list-item {
+  border: 3px solid #4b4b4b;
+  background-color: #4b4b4b;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.date {
+  background-color: #2a2a2a;
+  max-width: 100px;
+  height: 80px;
+  border-radius: 15px;
+  border: 2px solid white;
+  color: aliceblue;
+  font-size: 12px;
+  margin-left: 20px;
+  text-align: center;
+}
+.title {
+  color: aliceblue;
+  margin-left: 30px;
+  margin-top: 35px;
+  font-size: 20px;
+}
+.price {
+  width: 100px;
+  height: 30px;
+  background-color: #40005d;
+  color: aliceblue;
+  font-weight: bold;
+  border-radius: 8px;
+  border: 3px solid aliceblue;
+  display: flex;
+  align-self: center;
+  margin-right: 30px;
+  padding-left: 20px;
+}
